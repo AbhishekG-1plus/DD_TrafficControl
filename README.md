@@ -5,5 +5,11 @@
 - The traffic light controller also has a feature to override the automatically generated traffic light signal and give green signal to a preferred road if required.
 
 ## Road Schematic:
+<p  align="center">
+<img src="images/road_diagram.png" alt="Road diagram"><br>
+</p>
 
-## Block Diagram:
+## State Diagram:
+<p  align="center">
+<img src="images/state_diagram.png" alt="State diagram"><br>
+</p>
